@@ -12,8 +12,6 @@ An unofficial Telegram Android client with integrated Tor networking.
 ## Status
 Experimental Android beta.
 
-**Security notice:** Complete IP-leak protection
-has not yet been independently verified.
 
 Not affiliated with Telegram or the Tor Project.
 Made By Bharat Singh Takuli, Uttarakhand
